@@ -1,0 +1,5 @@
+DISPLAY_NAME=nevi
+MAIN=nevibot.py
+MEMORY=128
+VERSION=latest
+DESCRIPTION=bot
