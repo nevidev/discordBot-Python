@@ -1,5 +1,5 @@
 DISPLAY_NAME=nevi
 MAIN=nevibot.py
 MEMORY=128
-VERSION=latest
+VERSION=recommended
 DESCRIPTION=bot
